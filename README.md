@@ -30,7 +30,7 @@ The dataset used in this analysis contains images related to Alzheimer's disease
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/Alzheimers-Dataset-Analysis](https://github.com/yasmine2001el/Alzaheimer-s-Dataset-Analysis).git
+   git clone https://github.com/yasmine2001el/Alzaheimer-s-Dataset-Analysis.git
    
 2. Install the required dependencies using pip or conda.
 
