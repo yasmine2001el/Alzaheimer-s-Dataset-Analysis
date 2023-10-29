@@ -47,7 +47,7 @@ The dataset used in this analysis contains images related to Alzheimer's disease
 
 ## References
 
-- [Link to Dataset Source]([https://dataset-source-url.com](https://www.kaggle.com/code/yassmineelmersly/alzaheimer-s-dataset-analysis))
-- [VGG16 Documentation]([https://link-to-vgg16-docs.com](https://keras.io/api/applications/vgg/))
-- [CNNs in Medical Image Analysis]([https://medical-image-cnn-research.com](https://link.springer.com/article/10.1007/s12065-020-00540-3#:~:text=Researchers%20have%20successfully%20applied%20CNNs,%5D%2C%20blood%20cancer%2C%20anomalies%20of)https://link.springer.com/article/10.1007/s12065-020-00540-3#:~:text=Researchers%20have%20successfully%20applied%20CNNs,%5D%2C%20blood%20cancer%2C%20anomalies%20of)
+- [Link to VGG-16-applying-on-Alzaheimr-dataset](https://dataset-source-url.com](https://www.kaggle.com/code/yassmineelmersly/alzaheimer-s-dataset-analysis))
+- [VGG16 Documentation](https://link-to-vgg16-docs.com](https://keras.io/api/applications/vgg/))
+- [CNNs in Medical Image Analysis](https://medical-image-cnn-research.com](https://link.springer.com/article/10.1007/s12065-020-00540-3#:~:text=Researchers%20have%20successfully%20applied%20CNNs,%5D%2C%20blood%20cancer%2C%20anomalies%20of)https://link.springer.com/article/10.1007/s12065-020-00540-3#:~:text=Researchers%20have%20successfully%20applied%20CNNs,%5D%2C%20blood%20cancer%2C%20anomalies%20of)
 
