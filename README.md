@@ -1,7 +1,7 @@
 
 # Alzheimer's Disease Dataset Analysis
 
-![Alzheimer's Disease](alzheimer_image.jpg)
+<img src="Alzheimer_s Dataset/test/MildDemented/26 (19).jpg">
 
 ## Introduction
 
