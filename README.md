@@ -28,8 +28,7 @@ The dataset used in this analysis contains images related to Alzheimer's disease
 ## How to Run
 
 1. Clone this repository to your local machine.
-
-   git clone https://github.com/yourusername/Alzheimers-Dataset-Analysis.git
+   
 Install the required dependencies using pip or conda.
 
 bash
