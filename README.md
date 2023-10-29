@@ -28,20 +28,18 @@ The dataset used in this analysis contains images related to Alzheimer's disease
 ## How to Run
 
 1. Clone this repository to your local machine.
+git clone https://github.com/yourusername/Alzheimers-Dataset-Analysis.git
    
-Install the required dependencies using pip or conda.
+2. Install the required dependencies using pip or conda.
 
-bash
 Copy code
 pip install -r requirements.txt
 Run the Jupyter Notebook or Python script for data preprocessing, model training, and evaluation.
 
-Contributors
-Your Name
-Another Contributor
-References
-Link to Dataset Source
+## Contributors
+AARAB MARWANE
+ELAAROUB ABDELLAH
+
+## References
 VGG16 Documentation
 CNNs in Medical Image Analysis
-License
-This project is licensed under the MIT License.
