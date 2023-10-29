@@ -8,4 +8,5 @@ Memory impairment is the most common symptom, which must be accompanied by anoth
 - Trouble performing certain movements or actions (apraxia)
 - Loss of recognition of objects or people (agnosia)
 - Impaired executive functions, meaning the inability to adapt one's behavior to a given context.
+
 The exact causes of the disease are not identified, but ongoing research efforts are improving our understanding of the biological mechanisms involved.
