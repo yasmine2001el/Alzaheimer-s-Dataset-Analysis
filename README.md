@@ -37,12 +37,17 @@ The dataset used in this analysis contains images related to Alzheimer's disease
    ```bash
    pip install -r requirements.txt
 
-Run the Jupyter Notebook or Python script for data preprocessing, model training, and evaluation.
+3. Run the Jupyter Notebook or Python script for data preprocessing, model training, and evaluation.
 
 ## Contributors
-- AARAB MARWANE
-- ELAAROUB ABDELLAH
+
+- AARAB Marwane
+- ELAAROUB Abdellah
+- ELMERSLY Yassmine
 
 ## References
-- VGG16 Documentation
-- CNNs in Medical Image Analysis
+
+- [Link to Dataset Source](https://dataset-source-url.com)
+- [VGG16 Documentation](https://link-to-vgg16-docs.com)
+- [CNNs in Medical Image Analysis](https://medical-image-cnn-research.com)
+
