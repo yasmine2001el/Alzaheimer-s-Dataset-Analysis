@@ -34,8 +34,9 @@ The dataset used in this analysis contains images related to Alzheimer's disease
    
 2. Install the required dependencies using pip or conda.
 
-Copy code
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
 Run the Jupyter Notebook or Python script for data preprocessing, model training, and evaluation.
 
 ## Contributors
